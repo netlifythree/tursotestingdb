@@ -1,0 +1,12 @@
+{
+  "name": "turso-netlify",
+  "version": "1.0.0",
+  "description": "Turso user database on Netlify Functions",
+  "main": "index.js",
+  "scripts": {
+    "start": "netlify dev"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.6"
+  }
+}
